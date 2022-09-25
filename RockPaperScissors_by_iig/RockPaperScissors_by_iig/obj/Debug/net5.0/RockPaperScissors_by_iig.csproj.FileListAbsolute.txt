@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\bin\Debug\net5.0\RockPaperScissors_by_iig.exe
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\bin\Debug\net5.0\RockPaperScissors_by_iig.deps.json
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\bin\Debug\net5.0\RockPaperScissors_by_iig.runtimeconfig.json
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\bin\Debug\net5.0\RockPaperScissors_by_iig.runtimeconfig.dev.json
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\bin\Debug\net5.0\RockPaperScissors_by_iig.dll
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\bin\Debug\net5.0\ref\RockPaperScissors_by_iig.dll
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\bin\Debug\net5.0\RockPaperScissors_by_iig.pdb
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\RockPaperScissors_by_iig.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\RockPaperScissors_by_iig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\RockPaperScissors_by_iig.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\RockPaperScissors_by_iig.AssemblyInfo.cs
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\RockPaperScissors_by_iig.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\RockPaperScissors_by_iig.dll
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\ref\RockPaperScissors_by_iig.dll
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\RockPaperScissors_by_iig.pdb
+C:\Users\iig\source\repos\RockPaperScissors_by_iig\RockPaperScissors_by_iig\obj\Debug\net5.0\RockPaperScissors_by_iig.genruntimeconfig.cache
